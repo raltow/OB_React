@@ -1,2 +1,2 @@
-# OB_reatc
+# OB_react
 Open Bootcamp React
